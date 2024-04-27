@@ -26,17 +26,20 @@ print("The speed of the", Car, "during the travel was", Distance/Time, "kilomete
 
 
 
+// Repository successfully added.
 
 
-
-                        // ¡ANOTHER EXCELLENT JOB, WE'LL see more of these in the future!
+// ¡ANOTHER EXCELLENT JOB, WE'LL see more of these in the future!
 
 
 // ... TO DO  ######  !
 
+
 //  ######## Addiontal questions... (?) ########
 
+
 // What was the total distance traveled by the BMW at 75 kilometers? (give your answers in meters)
+
 
 
 
